@@ -1,0 +1,11 @@
+C:\Users\Jesse\source\repos\C12013205\obj\Debug\net8.0\C12013205.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesse\source\repos\C12013205\obj\Debug\net8.0\C12013205.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\C12013205\obj\Debug\net8.0\C12013205.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\C12013205\obj\Debug\net8.0\C12013205.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\C12013205\bin\Debug\net8.0\C12013205.deps.json
+C:\Users\Jesse\source\repos\C12013205\bin\Debug\net8.0\C12013205.dll
+C:\Users\Jesse\source\repos\C12013205\bin\Debug\net8.0\C12013205.pdb
+C:\Users\Jesse\source\repos\C12013205\obj\Debug\net8.0\C12013205.dll
+C:\Users\Jesse\source\repos\C12013205\obj\Debug\net8.0\refint\C12013205.dll
+C:\Users\Jesse\source\repos\C12013205\obj\Debug\net8.0\C12013205.pdb
+C:\Users\Jesse\source\repos\C12013205\obj\Debug\net8.0\ref\C12013205.dll
